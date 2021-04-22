@@ -21,3 +21,4 @@ Dự án được public trên website: https://yamcode.com mục Archive->C cù
 
 Ngôn ngữ được sử dụng trong dự án là C.
 
+**lưu ý: code được push ở nhánh foo.
