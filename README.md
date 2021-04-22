@@ -18,4 +18,4 @@ Các giải thuật xuất hiện trong dự án được ứng dụng từ cấ
 
 Dự án được thực hiện vào Học kỳ 3 - Năm học 2018-2019 trong chương trình học môn Cấu trúc dữ liệu và giải thuật.
 
-Ngôn ngữ được sữ dụng trong dự án là C.
+Ngôn ngữ được sử dụng trong dự án là C.
