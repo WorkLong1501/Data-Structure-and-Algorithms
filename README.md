@@ -17,5 +17,7 @@ Các giải thuật xuất hiện trong dự án được ứng dụng từ cấ
 
 
 Dự án được thực hiện vào Học kỳ 3 - Năm học 2018-2019 trong chương trình học môn Cấu trúc dữ liệu và giải thuật.
+Dự án được public trên website: https://yamcode.com mục Archive->C cùng thời điểm hoàn thành và phát triển đến nay đã đạt cao nhất gần 600 lượt xem.
 
 Ngôn ngữ được sử dụng trong dự án là C.
+
